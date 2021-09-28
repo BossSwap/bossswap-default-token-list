@@ -128,5 +128,8 @@
     "yargs-parser": "^20.2.4",
     "yargs-unparser": "^2.0.0",
     "yocto-queue": "^0.1.0"
+  },
+  "publishConfig": {
+    "@bossswap:registry": "https://npm.pkg.github.com"
   }
 }
