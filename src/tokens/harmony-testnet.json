@@ -1,6 +1,14 @@
 [
   {
     "chainId": 1666700000,
+    "address": "0xEC0e5E7029D7cE1Bb7947EFC10C394451848B70a",
+    "symbol": "BOSS",
+    "name": "Boss",
+    "decimals": 18,
+    "logoURI": "./images/tokens/boss.png"
+  },
+  {
+    "chainId": 1666700000,
     "address": "0x7466d7d0C21Fa05F32F5a0Fa27e12bdC06348Ce2",
     "symbol": "WONE",
     "name": "Wrapped ONE",
