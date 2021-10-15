@@ -94,5 +94,13 @@
     "name": "Uniswap",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/markets/images/535/small/256x256_Black-1.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xE7bBE0E193FdFe95d2858F5C46d036065f8F735c",
+    "symbol": "BOSS",
+    "name": "Boss",
+    "decimals": 18,
+    "logoURI": "./images/tokens/boss.png"
   }
 ]
