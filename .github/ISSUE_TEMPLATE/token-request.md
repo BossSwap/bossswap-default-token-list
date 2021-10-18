@@ -6,17 +6,14 @@ labels: token request
 assignees: ''
 ---
 
-- [ ] I understand that token listing is not required to use the Uniswap Interface with a token.
-- [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the Uniswap default token list.
-- [ ] I will not ping the Discord about this listing request.
-
 **Please provide the following information for your token.**
 
-Token Address: 
-Token Name (from contract): 
-Token Decimals (from contract): 
-Token Symbol (from contract): 
-Uniswap V2 Pair Address of Token: 
+Token Address\*: 
+Token Name (from contract)\*: 
+Token Decimals (from contract)\*: 
+Token Symbol (from contract)\*: 
+Pair Address of Token ( i.e BOSS/ONE 0x50AB1F2687dF0fD6c66E305f1116cF2A4545313a ): 
 
 Link to the official homepage of token:
 Link to CoinMarketCap or CoinGecko page of token: 
+Paste in Token Image PNG format ( 96x96 )\*:
