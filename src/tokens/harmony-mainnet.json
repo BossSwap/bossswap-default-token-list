@@ -118,5 +118,13 @@
     "name": "LootBlocks Protocol",
     "decimals": 18,
     "logoURI": "./images/tokens/lblox.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9814c2392be5412c5DE090febEee26693e96c9fA",
+    "symbol": "HYDRA",
+    "name": "Hydra",
+    "decimals": 18,
+    "logoURI": "./images/tokens/hydra.png"
   }
 ]
