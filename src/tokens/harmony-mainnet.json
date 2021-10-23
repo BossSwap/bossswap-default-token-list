@@ -126,5 +126,21 @@
     "name": "Hydra",
     "decimals": 18,
     "logoURI": "./images/tokens/hydra.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x69f4e54C666f7DDaf66D11876f557EC21cB65F35",
+    "symbol": "BARD",
+    "name": "Bard",
+    "decimals": 18,
+    "logoURI": "./images/tokens/bard.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+    "symbol": "JEWEL",
+    "name": "Jewels",
+    "decimals": 18,
+    "logoURI": "./images/tokens/jewel.png"
   }
 ]
