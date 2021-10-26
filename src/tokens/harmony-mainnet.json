@@ -142,5 +142,13 @@
     "name": "Jewels",
     "decimals": 18,
     "logoURI": "./images/tokens/jewel.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0aaCc709eeB3Bc3fa4D6Fe60cefBAF7F7e3bC30e",
+    "symbol": "bscBIFI",
+    "name": "beefy.finance",
+    "decimals": 18,
+    "logoURI": "./images/tokens/bscbifi.png"
   }
 ]
