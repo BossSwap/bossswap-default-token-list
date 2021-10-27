@@ -150,5 +150,21 @@
     "name": "beefy.finance",
     "decimals": 18,
     "logoURI": "./images/tokens/bscbifi.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
+    "symbol": "MIS",
+    "name": "Artemis",
+    "decimals": 18,
+    "logoURI": "./images/tokens/mis.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x70831eE5F8A0434BD2dDB1e45ED24cBca8B41fec",
+    "symbol": "BABYJEWEL",
+    "name": "BabyJewel",
+    "decimals": 18,
+    "logoURI": "./images/tokens/babyjewel.png"
   }
 ]
