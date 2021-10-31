@@ -166,5 +166,21 @@
     "name": "BabyJewel",
     "decimals": 18,
     "logoURI": "./images/tokens/babyjewel.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x1e05C8B69e4128949FcEf16811a819eF2f55D33E",
+    "symbol": "SONIC",
+    "name": "Sonic",
+    "decimals": 18,
+    "logoURI": "./images/tokens/sonic.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7531905C4C80b602CFf46Badc1671FbAD496f043",
+    "symbol": "MCONE",
+    "name": "McONE Coin",
+    "decimals": 18,
+    "logoURI": "./images/tokens/mcone.png"
   }
 ]
