@@ -180,7 +180,7 @@
     "address": "0x7531905C4C80b602CFf46Badc1671FbAD496f043",
     "symbol": "MCONE",
     "name": "McONE Coin",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "./images/tokens/mcone.png"
   }
 ]
