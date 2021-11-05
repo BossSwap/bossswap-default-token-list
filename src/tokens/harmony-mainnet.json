@@ -182,5 +182,29 @@
     "name": "McONE Coin",
     "decimals": 9,
     "logoURI": "./images/tokens/mcone.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x40d2f81bD135B5282CB2aA18F19cF7098079D012",
+    "symbol": "IKURA",
+    "name": "IKURA",
+    "decimals": 9,
+    "logoURI": "./images/tokens/ikura.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x584705c40E7DF1fcfc06cb0Ad5223E0F5BC8e6E2",
+    "symbol": "FOOL",
+    "name": "Fool",
+    "decimals": 18,
+    "logoURI": "./images/tokens/fool.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xCf1709Ad76A79d5a60210F23e81cE2460542A836",
+    "symbol": "TRANQ",
+    "name": "Tranquil",
+    "decimals": 18,
+    "logoURI": "./images/tokens/tranq.png"
   }
 ]
