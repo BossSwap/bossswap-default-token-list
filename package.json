@@ -1,6 +1,6 @@
 {
   "name": "@bossswap/default-token-list",
-  "version": "4.0.12",
+  "version": "4.0.13",
   "description": "◦ The Boss default token list",
   "main": "build/bossswap-default.tokenlist.json",
   "scripts": {

@@ -206,5 +206,21 @@
     "name": "Tranquil",
     "decimals": 18,
     "logoURI": "./images/tokens/tranq.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7E503b282FcBe3f2edc03642DCCc425d238C334F",
+    "symbol": "MINI",
+    "name": "Minion",
+    "decimals": 18,
+    "logoURI": "./images/tokens/mini.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE",
+    "symbol": "RVRS",
+    "name": "Reverse Token",
+    "decimals": 18,
+    "logoURI": "./images/tokens/rvrs.png"
   }
 ]
