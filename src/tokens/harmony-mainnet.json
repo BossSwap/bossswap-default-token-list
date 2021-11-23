@@ -222,5 +222,13 @@
     "name": "Reverse Token",
     "decimals": 18,
     "logoURI": "./images/tokens/rvrs.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x6cc35220349C444c39b8e26b359757739aAEc952",
+    "symbol": "CGS",
+    "name": "Cougar Token",
+    "decimals": 18,
+    "logoURI": "./images/tokens/cgs.png"
   }
 ]
