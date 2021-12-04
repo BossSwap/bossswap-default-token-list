@@ -230,5 +230,13 @@
     "name": "Cougar Token",
     "decimals": 18,
     "logoURI": "./images/tokens/cgs.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7ca9C1D0bb11F1b7C31ee5538D7a75aAF2d8E2FC",
+    "symbol": "COINKX",
+    "name": "CryptoPigs Token",
+    "decimals": 18,
+    "logoURI": "./images/tokens/coinkx.png"
   }
 ]
