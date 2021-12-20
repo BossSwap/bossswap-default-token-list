@@ -238,5 +238,13 @@
     "name": "CryptoPigs Token",
     "decimals": 18,
     "logoURI": "./images/tokens/coinkx.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x2B24bB17C9Bb25668eA01caabD43BF10Eaa332eB",
+    "symbol": "xB Piggy",
+    "name": "Baby Piggy",
+    "decimals": 18,
+    "logoURI": "./images/tokens/xb piggy.png"
   }
 ]
