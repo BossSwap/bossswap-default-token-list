@@ -246,5 +246,13 @@
     "name": "Baby Piggy",
     "decimals": 18,
     "logoURI": "./images/tokens/xb piggy.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd3a50c0dCE15C12fe64941FFd2B864e887c9B9E1",
+    "symbol": "$APE",
+    "name": "Harmonape",
+    "decimals": 9,
+    "logoURI": "./images/tokens/$ape.png"
   }
 ]
